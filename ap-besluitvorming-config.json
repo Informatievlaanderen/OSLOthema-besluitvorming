@@ -1,11 +1,12 @@
 {
   "naam": "Applicatieprofiel Besluitvorming",
+  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/applicatieprofiel/besluitvorming/erkendestandaard/2020-06-18/all-besluitvorming-ap.jsonld",
   "verantwoordelijke_organisatie": "Departement Kanselarij en Bestuur",
   "identificator_organisatie": "http://data.vlaanderen.be/id/organisatie/OVO001827",
   "publicatiedatum": "TBD",
   "type_toepassing": "TBD",
   "categorie": "Vocabularium & applicatieprofielen",
-  "description_file" : "ap-besluitvorming.md",
+  "beschrijving" : "ap-besluitvorming.md",
   "specificatiedocument": [
     {
       "naam": "Applicatieprofiel Besluitvorming",
