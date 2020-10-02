@@ -17,3 +17,6 @@
  - startdatum en einddatum terug optioneel gemaakt bij Activiteit
  - einddatum terug optioneel gemaakt bij Procedurestap
  - sluitingsdatum optioneel gemaakt bij Besluitvormingsaangelegenheid
+ 
+ 2020-10-02
+ - informatieclassificatie optioneel toegevoegd aan Dossier en Stuk
