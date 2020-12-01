@@ -1,0 +1,22 @@
+2020-06-19
+ - ap definitie van openbaar en gepland openbaar: openbaar vervangen door publiek
+ - usageNote voor genereertVerslag toegevoegd
+ - kardinaliteit van genereertAgendapunt gecorrigeerd
+ - kardinaliteit van relatie "vindt plaats tijdens" op activiteit aangepast naar 0..1 aan de zijde van procedureStap.
+ - codelijst toegevoegd voor attribuut taal op Stuk
+ - attributen van organisatie uit het applicatieprofiel gehaald, is nu terug in lijn met de afbeelding
+ 
+2020-07-06
+ - naam toegevoegd aan Dossier
+ - openingsdatum en sluitingsdatum toegevoegd aan Besluitvormingsaangelegenheid (Zaak)
+ - naam en einddatum verplicht gemaakt bij Procedurestap
+ - naam, start- en einddatum verplicht gemaakt bij Activiteit
+ - URI van "vervangt" veranderd in dct:replaces (was voorheen prov:wasRevisionOf), om duidelijk te maken dat de relaties "vervangt" en "heeftBijlage" op Stuk subproperties zijn van dossier#heeftRelatie (dct:relation)
+
+2020-08-24
+ - startdatum en einddatum terug optioneel gemaakt bij Activiteit
+ - einddatum terug optioneel gemaakt bij Procedurestap
+ - sluitingsdatum optioneel gemaakt bij Besluitvormingsaangelegenheid
+ 
+ 2020-10-02
+ - informatieclassificatie optioneel toegevoegd aan Dossier en Stuk
