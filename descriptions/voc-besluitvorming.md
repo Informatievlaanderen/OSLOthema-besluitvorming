@@ -1,4 +1,4 @@
-Het applicatieprofiel OSLO-Besluitvormning focust op de termen die betrekking hebben op informatie uit 
+Het applicatieprofiel OSLO-Besluitvorming focust op de termen die betrekking hebben op informatie uit 
 formele besluitvormingsprocedures. Om een efficiënte uitwisseling met alle betrokken partijen te 
 faciliteren werd er een breder gedragen gemeenschappelijk en expliciet begrippenkader opgesteld. 
 Dit applicatieprofiel steunt bijgevolg op [OSLO-Besluit](https://data.vlaanderen.be/ns/besluit/),
