@@ -22,9 +22,13 @@
  - informatieclassificatie optioneel toegevoegd aan Dossier en Stuk
  
 2021-01-29
- -  aanpassing URI: dossier#Dossier.isNeerslagVan ipv dossier#isNeerslagVan
- -  verwijder subklassing van AgentInRol van Agent
+ - aanpassing URI: dossier#Dossier.isNeerslagVan ipv dossier#isNeerslagVan
+ - verwijder subklassing van AgentInRol van Agent
  - aanpassing range: DateTime ipv Date voor prov#startedAtTime en prov#endedAtTime
  - prov:wasAssociatedWith toegevoegd
  - datum [0..*] toegevoegd op Stuk
  - kardinaliteit heeft deelnemer aangepast naar [0..*]
+ 
+ 2021-02-02
+ - range van role vervangen van skos:Concept naar prov#Role
+ - vertrouwelijkheidsniveau optioneel gemaakt
