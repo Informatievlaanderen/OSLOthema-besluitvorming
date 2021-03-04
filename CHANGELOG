@@ -26,9 +26,10 @@
  - verwijder subklassing van AgentInRol van Agent
  - aanpassing range: DateTime ipv Date voor prov#startedAtTime en prov#endedAtTime
  - prov:wasAssociatedWith toegevoegd
- - datum [0..*] toegevoegd op Stuk
+ - datum [1..*] toegevoegd op Stuk en creatiedatum optioneel gemaakt
  - kardinaliteit heeft deelnemer aangepast naar [0..*]
  
  2021-02-02
  - range van role vervangen van skos:Concept naar prov#Role
  - vertrouwelijkheidsniveau optioneel gemaakt
+ - Stuk.type optioneel gemaakt
