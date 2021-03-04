@@ -1,16 +1,16 @@
 {
   "naam": "Applicatieprofiel Besluitvorming",
-  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/applicatieprofiel/besluitvorming/kandidaatstandaard/2020-10-01/all-besluitvorming-ap.jsonld",
+  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/production/report/doc/applicatieprofiel/besluitvorming/erkendestandaard/2021-02-04/all-besluitvorming-ap.jsonld",
   "verantwoordelijke_organisatie": "Departement Kanselarij en Bestuur",
   "identificator_organisatie": "http://data.vlaanderen.be/id/organisatie/OVO001827",
-  "publicatiedatum": "TBD",
-  "type_toepassing": "TBD",
+  "publicatiedatum": "2021-02-04",
+  "type_toepassing": "Aanbevolen (vrijwillig)",
   "categorie": "Applicatieprofiel",
   "beschrijving" : "ap-besluitvorming.md",
   "specificatiedocument": [
     {
       "naam": "Applicatieprofiel Besluitvorming",
-      "waarde": "https://test.data.vlaanderen.be/doc/applicatieprofiel/besluitvorming"
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/besluitvorming"
     }
   ],
   "documentatie": [],
@@ -66,7 +66,7 @@
   ],
   "functioneel_toepassingsgebied": "Semantische standaard voor informatie over besluitvorming",
   "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
-  "datum_van_aanmelding": "17 September 2019",
-  "erkenning_werkgroep_datastandaarden": "TBD",
-  "erkenning_stuurgroep": "TBD"
+  "datum_van_aanmelding": "17 september 2019",
+  "erkenning_werkgroep_datastandaarden": "11 januari 2021",
+  "erkenning_stuurgroep": "4 februari 2021"
 }
