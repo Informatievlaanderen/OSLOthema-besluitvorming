@@ -39,3 +39,4 @@
  - EAP:
     - voeg card 0..* waar geen cardinaliteiten op een connector staan.
     - herlink ranges
+    - verwijder onnodige OSLO-Toestemming
