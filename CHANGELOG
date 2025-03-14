@@ -33,3 +33,9 @@
  - range van role vervangen van skos:Concept naar prov#Role
  - vertrouwelijkheidsniveau optioneel gemaakt
  - Stuk.type optioneel gemaakt
+
+2025-03-14
+ - alignatie toolchain 4
+ - EAP:
+    - voeg card 0..* waar geen cardinaliteiten op een connector staan.
+    - herlink ranges
